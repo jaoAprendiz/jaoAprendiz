@@ -1,10 +1,5 @@
-###
+<h1 align="center">Hello World!!!</h1>
 
- - 😎 19y
- - 💻 Técnico em Desenvolvimento de Sistemas na ETEC Raposo Tavares
- - 💬 Falo português (🇧🇷) e um pouco de inglês (🇺🇸)
- - 📚 Aprendendo: JavaScript, SQL e Python
- - 💼 Ferramentas que eu uso: Visual Studio Code e MySQL Workbench
 
    <div>
 
@@ -20,11 +15,11 @@
 
 ### BACK-END
 
-![JAVA](https://img.shields.io/badge/-JAVA-002B4D?style=for-the-badge&logo=java)
+<!-- [![JAVA](https://img.shields.io/badge/-JAVA-002B4D?style=for-the-badge&logo=java)
 ![Nodejs](https://img.shields.io/badge/-nodejs-002B4D?style=for-the-badge&logo=nodedotjs)
 ![Springboot](https://img.shields.io/badge/-springboot-002B4D?style=for-the-badge&logo=springboot)
 ![Python](https://img.shields.io/badge/-python-002B4D?style=for-the-badge&logo=python)
-![Mysql](https://img.shields.io/badge/-mysql-002B4D?style=for-the-badge&logo=mysql)
+![Mysql](https://img.shields.io/badge/-mysql-002B4D?style=for-the-badge&logo=mysql)] -->
 
 ### FRONT-END
 
@@ -35,12 +30,11 @@
 ### Ferramentas de Desenvolvimento
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-021632?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-021632?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
 
 </div>
 
 
 <div>
-<img align="left"  height="170em"  src="https://github-readme-stats.vercel.app/api?username=QueijoQualho&show_icons=true&theme=radical">
-<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueijoQualho&layout=compact&theme=radical">
+<img align="left"  height="170em"  src="https://github-readme-stats.vercel.app/api?username=siigAprendiz&show_icons=true&theme=prussian">
+<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siigAprendiz&layout=compact&theme=prussian">
 </div>

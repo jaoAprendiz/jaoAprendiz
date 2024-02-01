@@ -11,7 +11,6 @@
  - 💻 Técnico em Desenvolvimento de Sistemas na ETEC Raposo Tavares
  - 💬 Falo português (🇧🇷) e um pouco de inglês (🇺🇸)
  - 📚 Aprendendo: JavaScript, SQL e Python
- - 💼 Ferramentas que eu uso: Visual Studio Code e MySQL Workbench
 
 ### BACK-END
 

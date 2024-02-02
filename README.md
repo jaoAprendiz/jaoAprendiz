@@ -22,9 +22,9 @@
 
 ### FRONT-END
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-001F39?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-001F39?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-001F39?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-001F39?style=for-the-badge&logo=javascript)
 
 ### Ferramentas de Desenvolvimento
 

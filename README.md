@@ -1,13 +1,12 @@
-<div class="title">
+<div align="center" class="title">
    <h1 align="center">Hello World!!!</h1>
 </div>
-
-<div align="center" class="contentPage">
-<div class="img_right">
+   
+<div align="center" class="img_right">
    <img align="right" height="390em" src="https://media.discordapp.net/attachments/1057382154985811971/1202661140220354711/pngegg.png?ex=65ce4478&is=65bbcf78&hm=f565b75649c2b97c6cf3b5081dc08e21a55f29ee5f2241ff5b6fd05a24ff7b34&=&format=webp&quality=lossless&width=758&height=671">
 </div>
 
-<div align="left" class="leftSide">
+<div align="left" class="leftContent">
    
 ## Sobre mim
  - 😎 19y
@@ -34,13 +33,11 @@
    <img align="center" alt="java" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></img>
 </div>
 
-</div>
-
 <br/>
+
+</div>
 
 <div class="gitStats">
 <img align="left"  height="170em"  src="https://github-readme-stats.vercel.app/api?username=siigAprendiz&show_icons=true&theme=prussian">
 <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siigAprendiz&layout=compact&theme=prussian">
-</div>
-
 </div>

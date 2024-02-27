@@ -10,7 +10,7 @@
  - 😎 19y
  - 💻 Técnico em Desenvolvimento de Sistemas na ETEC Raposo Tavares
  - 💬 Falo português (🇧🇷) e um pouco de inglês (🇺🇸)
- - 📚 Aprendendo: JavaScript, SQL e Python
+ - 📚 Aprendendo: JavaScript, Java, SQL e Python
 
 ### BACK-END
 

@@ -1,39 +1,46 @@
-<h1 align="center">Hello World!!!</h1>
+<div class="title">
+   <h1 align="center">Hello World!!!</h1>
+</div>
 
+<div align="center" class="contentPage">
+<div class="img_right">
+   <img align="right" height="390em" src="https://media.discordapp.net/attachments/1057382154985811971/1202661140220354711/pngegg.png?ex=65ce4478&is=65bbcf78&hm=f565b75649c2b97c6cf3b5081dc08e21a55f29ee5f2241ff5b6fd05a24ff7b34&=&format=webp&quality=lossless&width=758&height=671">
+</div>
 
-   <div>
-
-<img align="right" height="390em" src="https://media.discordapp.net/attachments/1057382154985811971/1202661140220354711/pngegg.png?ex=65ce4478&is=65bbcf78&hm=f565b75649c2b97c6cf3b5081dc08e21a55f29ee5f2241ff5b6fd05a24ff7b34&=&format=webp&quality=lossless&width=758&height=671">
-  
-## &nbsp;Sobre mim
-
+<div align="left" class="leftSide">
+   
+## Sobre mim
  - 😎 19y
- - 💻 Técnico em Desenvolvimento de Sistemas na ETEC Raposo Tavares
+ - 💻 Técnico em Desenvolvimento de Sistemas na <a href="https://etecraposotavares.cps.sp.gov.br/">ETEC Raposo Tavares</a>
+ - 📕 Estudando Engenharia de Software na <a href="https://www.fiap.com.br/">FIAP</a>
  - 💬 Falo português (🇧🇷) e um pouco de inglês (🇺🇸)
  - 📚 Aprendendo: JavaScript, Java, SQL e Python
 
 ### BACK-END
-
-<!-- [![JAVA](https://img.shields.io/badge/-JAVA-002B4D?style=for-the-badge&logo=java)
-![Nodejs](https://img.shields.io/badge/-nodejs-002B4D?style=for-the-badge&logo=nodedotjs)
-![Springboot](https://img.shields.io/badge/-springboot-002B4D?style=for-the-badge&logo=springboot)
-![Python](https://img.shields.io/badge/-python-002B4D?style=for-the-badge&logo=python)
-![Mysql](https://img.shields.io/badge/-mysql-002B4D?style=for-the-badge&logo=mysql)] -->
+<div style="display: inline_block" class="displayBadge1">
+   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></img>
+</div>
 
 ### FRONT-END
-
-![HTML5](https://img.shields.io/badge/-HTML5-001F39?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-001F39?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-001F39?style=for-the-badge&logo=javascript)
+<div style="display: inline_block" class="displayBadge2">
+   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></img>
+   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></img>
+   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
+</div>
 
 ### Ferramentas de Desenvolvimento
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-021632?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+<div style="display: inline_block" class="displayBadge3">
+   <img align="center" alt="java" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
+   <img align="center" alt="java" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></img>
+</div>
 
 </div>
 
+<br/>
 
-<div>
+<div class="gitStats">
 <img align="left"  height="170em"  src="https://github-readme-stats.vercel.app/api?username=siigAprendiz&show_icons=true&theme=prussian">
 <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siigAprendiz&layout=compact&theme=prussian">
+</div>
+
 </div>

@@ -19,6 +19,7 @@
 
 ### BACK-END
 <div style="display: inline_block" class="displayBadge1">
+   <img align="center" alt="java" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></img>
 </div>
 

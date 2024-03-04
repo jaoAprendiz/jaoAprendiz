@@ -12,8 +12,8 @@
    
 ### Sobre mim
  - 😎 19y
- - 💻 Técnico em Desenvolvimento de Sistemas na <a href="https://etecraposotavares.cps.sp.gov.br/">ETEC Raposo Tavares</a>
- - 📕 Cursando Engenharia de Software na <a href="https://www.fiap.com.br/">FIAP</a>
+ - 💻 Técnico em Desenvolvimento de Sistemas na <a href="https://etecraposotavares.cps.sp.gov.br/" target="_blank">ETEC Raposo Tavares</a>
+ - 📕 Cursando Engenharia de Software na <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>
  - 💬 Falo português (🇧🇷) e um pouco de inglês (🇺🇸)
  - 📚 Aprendendo: JavaScript, Java, SQL e Python
 

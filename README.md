@@ -5,7 +5,7 @@
 <div class="mainContent">
 
    <div class="center" class="img_right">
-      <img align="right" width="450em" src="https://cdn.discordapp.com/attachments/1057382154985811971/1202661140220354711/pngegg.png?ex=65fc68f8&is=65e9f3f8&hm=c65ed5b7bac3a87e052756afe85bac13ce9648c1814f5595807f6ae041d6bb22&">
+      <img align="right" width="450em" src="https://i.pinimg.com/564x/12/01/d9/1201d9780ada8a4323018507b61627a0.jpg">
    </div>
 
    <div align="left" class="leftContent">

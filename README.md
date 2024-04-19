@@ -5,7 +5,7 @@
 <div class="mainContent">
 
    <div class="center" class="img_right">
-      <img align="right" width="450em" src="https://i.pinimg.com/564x/12/01/d9/1201d9780ada8a4323018507b61627a0.jpg">
+      <img align="right" width="400em" src="https://i.pinimg.com/564x/12/01/d9/1201d9780ada8a4323018507b61627a0.jpg">
    </div>
 
    <div align="left" class="leftContent">

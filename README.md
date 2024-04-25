@@ -15,12 +15,11 @@
  - 💻 Técnico em Desenvolvimento de Sistemas na <a href="https://etecraposotavares.cps.sp.gov.br/" target="_blank">ETEC Raposo Tavares</a>
  - 📕 Cursando Engenharia de Software na <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>
  - 💬 Falo português (🇧🇷) e um pouco de inglês (🇺🇸)
- - 📚 Aprendendo: Java, SQL e C++
 
 ### BACK-END
 <div style="display: inline_block" class="displayBadge1">
    <img align="center" alt="java" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
-   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></img>
+   <img align="center" alt="java" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
 </div>
 
 ### FRONT-END
@@ -33,7 +32,6 @@
 ### Ferramentas de Desenvolvimento
 <div style="display: inline_block" class="displayBadge3">
    <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
-   <img align="center" alt="intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></img>
    <img align="center" alt="pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></img>
 </div>
 

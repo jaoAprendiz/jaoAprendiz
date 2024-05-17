@@ -43,6 +43,6 @@
 <br/>
 
 <div class="gitStats">
-<img align="left"  height="170em"  src="https://github-readme-stats.vercel.app/api?username=siigAprendiz&show_icons=true&theme=prussian">
-<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siigAprendiz&layout=compact&theme=prussian">
+<img align="left"  height="170em"  src="https://github-readme-stats.vercel.app/api?username=jaoAprendiz&show_icons=true&theme=prussian">
+<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoAprendiz&layout=compact&theme=prussian">
 </div>

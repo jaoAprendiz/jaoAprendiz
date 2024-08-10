@@ -4,7 +4,7 @@
 - 🏛️ Técnico em Desenvolvimento de Sistemas na [ETEC RAPOSO TAVARES](https://etecraposotavares.cps.sp.gov.br/)
 - 📖 Cursando 2° Semestre de Engenharia de Softaware na [FIAP](https://www.fiap.com.br/) ...
 - 💻 Atualmente estou aprendendo mais sobre Python, C++, JavaScript, HTML e CSS ...
-- 🔎 Atualmente estou em busca de um Estágio como DEV
+- 🔎 Estou em busca de um Estágio como dev back-end
 - 📫 Contato: joaosoave94@gmail.com
 
 <div class="gitStats">

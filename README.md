@@ -1,48 +1,31 @@
-<div align="center" class="title">
-   <h1 align="center">Hello World!!!</h1>
-</div>
+### Olá Mundo! Eu sou O João 👋
+##
 
-<div class="mainContent">
-
-   <div class="center" class="img_right">
-      <img align="right" width="400em" src="https://i.pinimg.com/564x/12/01/d9/1201d9780ada8a4323018507b61627a0.jpg">
-   </div>
-
-   <div align="left" class="leftContent">
-   
-### Sobre mim
- - 😎 19y
- - 💻 Técnico em Desenvolvimento de Sistemas na <a href="https://etecraposotavares.cps.sp.gov.br/" target="_blank">ETEC Raposo Tavares</a>
- - 📕 Cursando Engenharia de Software na <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>
- - 💬 Falo português (🇧🇷) e um pouco de inglês (🇺🇸)
-
-### BACK-END
-<div style="display: inline_block" class="displayBadge1">
-   <img align="center" alt="java" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
-   <img align="center" alt="java" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
-</div>
-
-### FRONT-END
-<div style="display: inline_block" class="displayBadge2">
-   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></img>
-   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></img>
-   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
-</div>
-
-### Ferramentas de Desenvolvimento
-<div style="display: inline_block" class="displayBadge3">
-   <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
-   <img align="center" alt="pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></img>
-   <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"></img>
-   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></img>
-</div>
-
-   </div>
-</div>
-
-<br/>
+- 🏛️ Técnico em Desenvolvimento de Sistemas na [ETEC RAPOSO TAVARES](https://etecraposotavares.cps.sp.gov.br/)
+- 📖 Cursando 2° Semestre de Engenharia de Softaware de Sistemas na [FIAP](https://www.fiap.com.br/) ...
+- 💻 Atualmente estou aprendendo mais sobre Python, C++, JavaScript, HTML e CSS ...
+- 🔎 Atualmente estou em busca de um Estágio como DEV
+- 📫 Contato: joaosoave94@gmail.com
 
 <div class="gitStats">
-<img align="left"  height="170em"  src="https://github-readme-stats.vercel.app/api?username=jaoAprendiz&show_icons=true&theme=prussian">
-<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoAprendiz&layout=compact&theme=prussian">
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=jaoAprendiz&show_icons=true&theme=prussian">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoAprendiz&layout=compact&theme=prussian">
+</div>
+
+<div class="badges-and-images" style="display: inline_block"><br>
+   <a href="https://skillicons.dev">
+      <img align="center" alt="jAprendiz-html" height="50" width="50" src="https://skillicons.dev/icons?i=html" />
+      <img align="center" alt="jAprendiz-css" height="50" width="50" src="https://skillicons.dev/icons?i=css" />
+      <img align="center" alt="jAprendiz-javascript" height="50" width="50" src="https://skillicons.dev/icons?i=js" />
+      <img align="center" alt="jAprendiz-python" height="50" width="50" src="https://skillicons.dev/icons?i=python" />
+      <img align="center" alt="jAprendiz-cpp" height="50" width="50" src="https://skillicons.dev/icons?i=cpp" />
+      <img align="right" alt="img" height="220" src="https://media.discordapp.net/attachments/1057382154985811971/1202661140220354711/pngegg.png?ex=66b8ef78&is=66b79df8&hm=af121aa80ae80e9ce646abeda589e9959bde38446cfbefc156e15aa12d3f3d7f&=&format=webp&quality=lossless&width=758&height=671" />
+  </a>
+</div>
+
+##
+
+<div class="socialmedia">
+  <a href="https://www.instagram.com/joaosoave.iwnl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-soave-b11a162a9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>

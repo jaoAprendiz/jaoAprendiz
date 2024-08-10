@@ -1,4 +1,4 @@
-### Olá Mundo! Eu sou O João 👋
+### Olá Mundo! Eu sou o João 👋
 ##
 
 - 🏛️ Técnico em Desenvolvimento de Sistemas na [ETEC RAPOSO TAVARES](https://etecraposotavares.cps.sp.gov.br/)

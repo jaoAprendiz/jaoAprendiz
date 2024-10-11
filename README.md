@@ -19,7 +19,7 @@
       <img align="center" alt="jAprendiz-javascript" height="50" width="50" src="https://skillicons.dev/icons?i=js" />
       <img align="center" alt="jAprendiz-python" height="50" width="50" src="https://skillicons.dev/icons?i=python" />
       <img align="center" alt="jAprendiz-cpp" height="50" width="50" src="https://skillicons.dev/icons?i=cpp" />
-      <img align="right" alt="img" height="220" src="https://media.discordapp.net/attachments/1057382154985811971/1202661140220354711/pngegg.png?ex=66b8ef78&is=66b79df8&hm=af121aa80ae80e9ce646abeda589e9959bde38446cfbefc156e15aa12d3f3d7f&=&format=webp&quality=lossless&width=758&height=671" />
+      <img align="right" alt="img" height="220" src="/imagem.png" />
   </a>
 </div>
 

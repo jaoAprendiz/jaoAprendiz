@@ -18,7 +18,7 @@
       <img align="center" alt="jAprendiz-css" height="50" width="50" src="https://skillicons.dev/icons?i=css" />
       <img align="center" alt="jAprendiz-javascript" height="50" width="50" src="https://skillicons.dev/icons?i=js" />
       <img align="center" alt="jAprendiz-python" height="50" width="50" src="https://skillicons.dev/icons?i=python" />
-      <img align="center" alt="jAprendiz-cpp" height="50" width="50" src="https://skillicons.dev/icons?i=cpp" />
+      <img align="center" alt="jAprendiz-cpp" height="50" width="50" src="https://skillicons.dev/icons?i=arduino" />
       <img align="right" alt="img" height="220" src="/imagem.png" />
   </a>
 </div>

@@ -3,7 +3,7 @@
 
 - 🏛️ Técnico em Desenvolvimento de Sistemas na [ETEC RAPOSO TAVARES](https://etecraposotavares.cps.sp.gov.br/)
 - 📖 Cursando 2° Semestre de Engenharia de Softaware na [FIAP](https://www.fiap.com.br/)...
-- 💻 Atualmente estou aprendendo mais sobre Python, C++, JavaScript, HTML e CSS...
+- 💻 Atualmente estou aprendendo mais sobre Python, JavaScript, HTML e CSS...
 - 🔎 Estou em busca de um Estágio como dev back-end...
 - 📫 Contato: joaosoave94@gmail.com
 
@@ -17,8 +17,11 @@
       <img align="center" alt="jAprendiz-html" height="50" width="50" src="https://skillicons.dev/icons?i=html" />
       <img align="center" alt="jAprendiz-css" height="50" width="50" src="https://skillicons.dev/icons?i=css" />
       <img align="center" alt="jAprendiz-javascript" height="50" width="50" src="https://skillicons.dev/icons?i=js" />
+      <img align="center" alt="jAprendiz-react" height="50" width="50" src="https://skillicons.dev/icons?i=react" />
+      <img align="center" alt="jAprendiz-tailwind" height="50" width="50" src="https://skillicons.dev/icons?i=tailwind" />
+      <img align="center" alt="jAprendiz-bootstrap" height="50" width="50" src="https://skillicons.dev/icons?i=bootstrap" />
       <img align="center" alt="jAprendiz-python" height="50" width="50" src="https://skillicons.dev/icons?i=python" />
-      <img align="center" alt="jAprendiz-cpp" height="50" width="50" src="https://skillicons.dev/icons?i=arduino" />
+      <img align="center" alt="jAprendiz-ino" height="50" width="50" src="https://skillicons.dev/icons?i=arduino" />
       <img align="right" alt="img" height="220" src="/imagem.png" />
   </a>
 </div>

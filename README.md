@@ -13,13 +13,12 @@
 </div>
 
 <div class="badges-and-images" style="display: inline_block"><br>
-   <a href="https://skillicons.dev">
       <img align="center" alt="jAprendiz-python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-      <img align="center" alt="jAprendiz-linux" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-      <img align="center" alt="jAprendiz-linux" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img align="center" alt="jAprendiz-pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img align="center" alt="jAprendiz-numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img align="center" alt="jAprendiz-mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
       <img align="center" alt="jAprendiz-linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       <img align="right" alt="img" height="220" src="/imagem.png" />
-  </a>
 </div>
 
 ##

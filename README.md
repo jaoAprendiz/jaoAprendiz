@@ -18,7 +18,7 @@
       <img align="center" alt="jAprendiz-numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
       <img align="center" alt="jAprendiz-mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
       <img align="center" alt="jAprendiz-linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img align="right" alt="img" height="220" src="/imagem.png" />
+      <img align="right" alt="img" height="300" src="/imagem5.png" />
 </div>
 
 ##

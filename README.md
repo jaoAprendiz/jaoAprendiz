@@ -32,7 +32,7 @@
 
 ---
 
-## ✉️ Contato e Redes Scoiais
+## ✉️ Contato e Redes Sociais
 
 <p align="left">
   <a href="mailto:joaosoave94@gmail.com" target="_blank">
